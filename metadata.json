@@ -1,0 +1,11 @@
+{
+  "name": "TxadaRide Cabo Verde",
+  "description": "Ride-hailing and driver car-sharing platform for Cape Verde with real-time GPS tracking, vehicle plate verification, automated dispatch, secure payments, offline mode, loyalty points rewards system (Txada Club), and multilingual support.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
